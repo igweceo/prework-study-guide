@@ -1,2 +1,2 @@
 # prework-study-guide
-for use to code during my preword
+Prework for my UNB bootcamp
